@@ -1,5 +1,5 @@
-$ dig WWW.RU_BIKS.COM +nostats +nocomments +nocmd
-    > ;WWW.RU_BIKS.COM.                     IN      A
-    > WWW.RU_BIKS.COM.              3592    IN      CNAME   ANONYMOUS 1111X.github.io.
-    > ANONYMOUS 1111X.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+
+
+
+
+
